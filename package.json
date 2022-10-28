@@ -2,7 +2,7 @@
   "name": "kashmiri-idioms",
   "version": "1.0.0",
   "description": "Gives a random kashmiri idiom",
-  "license": "MIT",
+  "repository": "user2695/kashmiri-idioms",
   "main": "index.js",
   "keywords": [
     "idiom",
