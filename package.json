@@ -1,0 +1,13 @@
+{
+  "name": "kashmiri-idioms",
+  "version": "1.0.0",
+  "description": "Gives a random kashmiri idiom",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "idiom",
+    "npm",
+    "package",
+    "squaredbingo"
+  ]
+}
