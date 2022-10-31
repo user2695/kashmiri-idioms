@@ -20,6 +20,10 @@ console.log(result);
 
 ### Contributions:
 
-For contributing to our project, please consider reading **[Contribution](http://github.com/user2695/kashmiri-idioms/Contribution.md)** guideline.
+For contributing to our project, please consider reading **[Contribution](https://github.com/user2695/kashmiri-idioms/blob/master/Contribution.md)** guideline.
+
+### Author
+
+**[Zubair](https://github.com/user2695)**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zykhan37)

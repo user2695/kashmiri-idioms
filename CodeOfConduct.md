@@ -34,7 +34,7 @@ is anything hurtful that interferes with other people’s experience and partici
 
 ### Reporting
 
-Repository maintainers reserve the right to remove offensive content. To report inappropriate behavior, you can also contact zy.khan37@gamil.com.
+Repository maintainers reserve the right to remove offensive content. To report inappropriate behavior, you can mention `@user2695` in comment.
 
 ### Consequences
 

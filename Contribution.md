@@ -1,6 +1,6 @@
 # Contributing to kashmiri-idioms
 
-We welcome contributions to our open source project. When contributing, please follow the kashmiri-idioms **[Community Code of Conduct](http://github.com/user2695/kashmiri-idioms/CodeOfConduct.md)**.
+We welcome contributions to our open source project. When contributing, please follow the kashmiri-idioms **[Community Code of Conduct](https://github.com/user2695/kashmiri-idioms/blob/master/CodeOfConduct.md)**.
 
 ### Issues
 
