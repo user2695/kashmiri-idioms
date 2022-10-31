@@ -1,6 +1,6 @@
 {
   "name": "kashmiri-idioms",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Gives a random kashmiri idiom",
   "repository": "user2695/kashmiri-idioms",
   "main": "index.js",
