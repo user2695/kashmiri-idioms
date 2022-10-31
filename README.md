@@ -7,15 +7,32 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/user2695/kashmiri-idioms?color=red&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/user2695/kashmiri-idioms?color=yellow&style=plastic)</div>
 
-kashmiri-idioms module is entirely built on vanila javascript and is dependendent on no other module. It give a random kashmiri idiom with translation and meaning.
+kashmiri-idioms module is entirely built on vanila javascript and is dependent on no other module. It give a random kashmiri idiom with translation and meaning.
 
 ## Usage
+
+### Javascript
 
 ```
 const giveMeOne = require("kashmiri-idioms"); //require package
 
 const result = giveMeOne();
 console.log(result);
+```
+
+### React
+
+```
+import giveMeOne from "kashmiri-idioms";
+
+export default function App() {
+  const result = giveMeOne();
+  return (
+    ...
+      {result.id}
+    ...
+  );
+}
 ```
 
 ### Contributions:

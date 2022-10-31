@@ -40,5 +40,4 @@ Repository maintainers reserve the right to remove offensive content. To report 
 
 Violations of this Code of Conduct may result in:
 
-- Disqualification from Esri Events and Conferences
 - Being blocked from kashmiri-idioms GitHub Organization
