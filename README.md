@@ -6,7 +6,8 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/kashmiri-idioms?style=plastic)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/user2695/kashmiri-idioms?color=red&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/user2695/kashmiri-idioms?color=yellow&style=plastic)</div>
-Gives you a random kashmiri idiom.
+
+kashmiri-idioms module is entirely built on vanila javascript and is dependendent on no other module. It give a random kashmiri idiom with translation and meaning.
 
 ## Usage
 
