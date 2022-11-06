@@ -1,5 +1,6 @@
 <div align="center"><h1>kashmiri-idioms</h1>
 
+<img src="https://img.shields.io/badge/test-passing-brightgreen">
 <img src="https://img.shields.io/github/issues/user2695/kashmiri-idioms">
 <img src="https://img.shields.io/github/forks/user2695/kashmiri-idioms">
 
